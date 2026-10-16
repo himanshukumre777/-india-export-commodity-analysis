@@ -1,4 +1,5 @@
 India Export Commodity Analysis
+
 An end-to-end data analytics project studying India's top 15 export commodities by value and comparing Calendar Year (CY) 2024 with CY 2025 (January–December). The project combines SQL analysis, Python-based statistical analysis and forecasting, destination-market analysis, and an interactive Power BI dashboard.
 📌 Problem Statement
 India's export commodities differ in growth, consistency, market share, destination mix, and seasonal demand. A single growth percentage cannot fully describe export performance: a commodity may grow quickly but be volatile, or remain stable while losing value.
